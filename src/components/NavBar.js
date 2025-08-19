@@ -30,7 +30,7 @@ const NavBar = ({ user, dispatch }) => {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="mr-auto">
-            <Nav.Link as={NavLink} to="/" exact>
+            <Nav.Link as={NavLink} to="/">
               Home
             </Nav.Link>
             <Nav.Link as={NavLink} to="/add">
