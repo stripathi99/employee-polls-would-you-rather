@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/employee-polls-would-you-rather/static/css/main.5d5e27ce.css",
+    "main.js": "/employee-polls-would-you-rather/static/js/main.bb3c3000.js",
+    "index.html": "/employee-polls-would-you-rather/index.html",
+    "main.5d5e27ce.css.map": "/employee-polls-would-you-rather/static/css/main.5d5e27ce.css.map",
+    "main.bb3c3000.js.map": "/employee-polls-would-you-rather/static/js/main.bb3c3000.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d5e27ce.css",
+    "static/js/main.bb3c3000.js"
+  ]
+}
